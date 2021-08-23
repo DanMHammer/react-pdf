@@ -50,6 +50,13 @@
 				<br>
 				<a href="https://github.com/diegomura/react-pdf/tree/master/packages/examples/src/pageWrap/">Page wrap</a>
 			</td>
+			<td align="center" valign="top">
+				<a href="https://github.com/diegomura/react-pdf/tree/master/packages/examples/src/svgWrap/">
+					<img width="150" height="150" src="https://github.com/diegomura/react-pdf/blob/master/packages/examples/src/svgWrap/thumb.png?raw=true">
+				</a>
+				<br>
+				<a href="https://github.com/diegomura/react-pdf/tree/master/packages/examples/src/svgWrap/">Svg Wrapper</a>
+			</td>
 		</tr>
 	</tbody>
 </table>
